@@ -1,0 +1,22 @@
+
+
+body{
+  background-image: url('https://media.istockphoto.com/id/1414631224/photo/mist-autumnal-landscape.jpg?b=1&s=170667a&w=0&k=20&c=H2yMs6aP8ZufkNOuF-yZqzsQW1meF6t6Lk94neM4hIM=');
+    background-size:cover;
+}
+h1{
+  color:white;
+}
+
+.index{
+text-align:center ;
+}
+
+.IMAge2{
+text-align:center;
+}
+
+.buttons{
+text-align:center ;
+  
+}
